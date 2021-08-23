@@ -20,4 +20,4 @@ Run by typing "speechy <"text to say in quotes">"
 
 Credits:
 ---
-**patitotective _#0127_**
+**patitotective#0127**
