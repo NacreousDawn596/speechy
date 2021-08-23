@@ -21,3 +21,4 @@ Run by typing "speechy <"text to say in quotes">"
 Credits:
 ---
 **patitotective#0127**
+**Elsa#2561** Aka atreyaved
